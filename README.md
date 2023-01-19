@@ -12,5 +12,5 @@ The project aims to analyse all network metrics, such as coefficient clustering 
 
 The tools used were Python and Gephi, the latter only for the visualisation part. The network analysis can be found in the file [Network_analysis.ipynb](Network_analysis.ipynb), and the visualisations obtained with Gephi in the folder [Gephi](Gephi).
 
-To present the project, we created a virtual room on Spatial, which can be accessed here: [virtual squirrel forest](https://www.spatial.io/s/Data-Vis-6273de24fe93dc0001dda8b4?share=6534865150247293390)
+To present the project, we created a virtual room on Spatial, which can be accessed here: [virtual squirrel forest](https://www.spatial.io/s/Data-Vis-6273de24fe93dc0001dda8b4?share=6534865150247293390).
 
